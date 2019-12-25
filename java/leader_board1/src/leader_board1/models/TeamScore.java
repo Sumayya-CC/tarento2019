@@ -1,0 +1,16 @@
+package leader_board1.models;
+
+import java.util.List;
+
+public class TeamScore extends Team{
+	List<MemberScore> members;
+
+	public List<MemberScore> getMembers() {
+		return members;
+	}
+
+	public void setMembers(List<MemberScore> members) {
+		this.members = members;
+	}
+	
+}

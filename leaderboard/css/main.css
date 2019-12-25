@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(224, 238, 237);
+}
+header{
+    color: white;
+    width: 100%;
+    height: 80px;
+    background-color: #33C6c3;
+    padding: 20px 50px;
+}
+header a{
+    color: white;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+.box{
+    padding: 0 15px;
+    margin: 50px 0 0 0;
+    background-color: #F1F1F1;
+    border: 1px solid #DDD;
+}
